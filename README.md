@@ -44,6 +44,12 @@ Modern embedded systems demand real-time, reliable sensor data processing withou
 
 RTL design, simulation testbenches, Wishbone interface, timing constraints, OpenLane synthesis, and documentation are completed. Tapeout submission materials and reproducibility guides are prepared. The project is open for community review and extension.
 
+## Video Demonstration
+
+Watch a complete walk-through and code explanation of this project on YouTube:  
+[Sensor Data Accelerator Project Video](https://youtu.be/T9fFh3j3Fis?si=78BaA0V66ZAq_Mb0)
+
+
 ### License
 
 This project is released under the MIT License. 
